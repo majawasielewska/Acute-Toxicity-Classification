@@ -1,6 +1,6 @@
 # Acute-Toxicity-Classification
 
-The dataset used in project was dataset extracted from a large collection of research studies conducted in 2021 (https://www.sciencedirect.com/science/article/pii/S014765132031575X).
+The dataset used in project was extracted from a large collection of research studies conducted in 2021 (https://www.sciencedirect.com/science/article/pii/S014765132031575X).
 
 The file "Dataset-Daphniamagna.xlsx" contains the extracted dataset on which I based the analysis.
 
